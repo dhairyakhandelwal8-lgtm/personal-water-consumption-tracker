@@ -1,0 +1,9 @@
+Project: Personal Water Consumption Tracker
+Course: CHE110 - Environmental Studies
+Institution: Lovely Professional University
+Department: Computer Science and Engineering
+
+Team:
+Dhairya Khandelwal - Registration No. 12617860
+Rishit - Registration No. 12619311
+Lagishetty Nikhil - Registration No. 12617874
