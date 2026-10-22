@@ -10,13 +10,6 @@ A responsive, browser-based prototype for the CHE110 Environmental Studies group
 - CSV export for recorded entries.
 - Practical water-conservation tips and project team details.
 
-## How to run
-1. Extract the ZIP file.
-2. Open `index.html` in a modern browser.
-3. Add an entry to test the dashboard.
-
-No server or installation is required. Entries are saved using the browser's localStorage on that device. Clearing browser storage may delete them, so use CSV export to keep a copy.
-
 ## Scope notes
 This prototype uses user-entered estimates. It does not connect to real water meters or sensors, and it does not use AI predictions. The chart summarizes the saved entries. The daily goal is a user-defined tracking benchmark, not medical advice.
 
